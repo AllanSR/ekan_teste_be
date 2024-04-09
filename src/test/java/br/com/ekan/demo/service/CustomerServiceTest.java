@@ -1,0 +1,8 @@
+package br.com.ekan.demo.service;
+
+import org.junit.jupiter.api.Test;
+
+
+public class CustomerServiceTest {
+
+}
